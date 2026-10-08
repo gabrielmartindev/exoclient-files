@@ -206,8 +206,8 @@
           "name": "ExoClient 1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1769626,
-            "MD5": "4080ecb48dfd3bfcdde2d7ff85cbedd3",
+            "size": 1691783,
+            "MD5": "c05585098673f1a4325399487abf26b3",
             "url": "https://raw.githubusercontent.com/gabrielmartindev/exoclient-files/main/mods/exoclient-1.0.0.jar"
           }
         }
